@@ -1,0 +1,141 @@
+City,Timestamp,Restaurant Name,Address,Latitude,Longitude,Opening Hours,Wine Type,Supplier,Quality Tier,Quantity Available
+San Francisco,2024-11-10 19:43:51.992679,Rich Table,"199 Gough St, San Francisco, CA 94102, USA",37.7748657,-122.4228497,"Monday: Closed
+Tuesday: 5:00 – 10:30 PM
+Wednesday: 5:00 – 10:30 PM
+Thursday: 5:00 – 10:30 PM
+Friday: 5:00 – 10:30 PM
+Saturday: 5:00 – 10:30 PM
+Sunday: Closed",Rosé,Wine Co.,Premium,38
+San Francisco,2024-11-10 19:43:53.630000,Lazy Bear,"3416 19th St, San Francisco, CA 94110, USA",37.7604119,-122.4197156,"Monday: Closed
+Tuesday: 4:45 – 10:00 PM
+Wednesday: 4:45 – 10:00 PM
+Thursday: 4:45 – 10:00 PM
+Friday: 4:45 – 10:00 PM
+Saturday: 4:45 – 10:00 PM
+Sunday: Closed",Rosé,Vineyard Delights,Premium,99
+San Francisco,2024-11-10 19:43:54.852127,Brenda's French Soul Food,"652 Polk St, San Francisco, CA 94102, USA",37.7829132,-122.4188995,"Monday: 8:00 AM – 8:00 PM
+Tuesday: 8:00 AM – 3:00 PM
+Wednesday: 8:00 AM – 8:00 PM
+Thursday: 8:00 AM – 8:00 PM
+Friday: 8:00 AM – 8:00 PM
+Saturday: 8:00 AM – 8:00 PM
+Sunday: 8:00 AM – 8:00 PM",Red,Wine Co.,Premium,22
+San Francisco,2024-11-10 19:43:56.394384,Sotto Mare,"552 Green St, San Francisco, CA 94133, USA",37.7997503,-122.4083449,"Monday: 11:30 AM – 9:00 PM
+Tuesday: 11:30 AM – 9:00 PM
+Wednesday: 11:30 AM – 9:00 PM
+Thursday: 11:30 AM – 9:00 PM
+Friday: 11:30 AM – 10:00 PM
+Saturday: 11:30 AM – 10:00 PM
+Sunday: 11:30 AM – 9:00 PM",Sparkling,Wine Co.,Premium,61
+San Francisco,2024-11-10 19:43:57.608155,State Bird Provisions,"1529 Fillmore St, San Francisco, CA 94115, USA",37.7836806,-122.4330028,"Monday: 5:30 – 10:00 PM
+Tuesday: 5:30 – 10:00 PM
+Wednesday: 5:30 – 10:00 PM
+Thursday: 5:30 – 10:00 PM
+Friday: 5:30 – 10:30 PM
+Saturday: 5:30 – 10:30 PM
+Sunday: 5:30 – 10:00 PM",Red,Wine Co.,Premium,74
+San Francisco,2024-11-10 19:43:58.836828,Waterbar Restaurant,"399 The Embarcadero, San Francisco, CA 94105, USA",37.7904926,-122.3890417,"Monday: 11:30 AM – 9:00 PM
+Tuesday: 11:30 AM – 9:00 PM
+Wednesday: 11:30 AM – 9:00 PM
+Thursday: 11:30 AM – 9:00 PM
+Friday: 11:30 AM – 9:30 PM
+Saturday: 11:30 AM – 9:30 PM
+Sunday: 11:30 AM – 9:00 PM",Red,Wine Co.,Mid-tier,87
+San Francisco,2024-11-10 19:44:00.184101,House of Prime Rib,"1906 Van Ness Ave, San Francisco, CA 94109, USA",37.7934329,-122.422732,"Monday: 4:30 – 10:00 PM
+Tuesday: 4:30 – 10:00 PM
+Wednesday: 4:30 – 10:00 PM
+Thursday: 4:30 – 10:00 PM
+Friday: 4:30 – 10:00 PM
+Saturday: 3:30 – 10:00 PM
+Sunday: 3:30 – 10:00 PM",Sparkling,Global Wines Ltd.,Entry-level,20
+San Francisco,2024-11-10 19:44:01.719280,Gary Danko,"800 North Point St, San Francisco, CA 94109, USA",37.80586510000001,-122.4206043,"Monday: 5:00 – 10:00 PM
+Tuesday: Closed
+Wednesday: Closed
+Thursday: 5:00 – 10:00 PM
+Friday: 5:00 – 10:00 PM
+Saturday: 5:00 – 10:00 PM
+Sunday: 5:00 – 10:00 PM",White,Wine Co.,Mid-tier,24
+San Francisco,2024-11-10 19:44:03.460867,Sweet Maple,"2101 Sutter St, San Francisco, CA 94115, USA",37.78570819999999,-122.4351203,"Monday: 8:00 AM – 2:30 PM
+Tuesday: 8:00 AM – 2:30 PM
+Wednesday: 8:00 AM – 2:30 PM
+Thursday: 8:00 AM – 2:30 PM
+Friday: 8:00 AM – 2:30 PM
+Saturday: 8:00 AM – 3:00 PM
+Sunday: 8:00 AM – 3:00 PM",Red,Fine Wine Suppliers,Premium,16
+San Francisco,2024-11-10 19:44:05.098676,Fog Harbor Fish House,"Pier 39, San Francisco, CA 94133, USA",37.8089898,-122.4102928,"Monday: 11:00 AM – 9:00 PM
+Tuesday: 11:00 AM – 9:00 PM
+Wednesday: 11:00 AM – 9:00 PM
+Thursday: 11:00 AM – 9:00 PM
+Friday: 11:00 AM – 9:00 PM
+Saturday: 11:00 AM – 9:00 PM
+Sunday: 11:00 AM – 9:00 PM",Rosé,Wine Co.,Mid-tier,50
+San Francisco,2024-11-10 19:44:06.333747,Sons & Daughters,"708 Bush Street, Between Mason &, Powell St, San Francisco, CA 94108, USA",37.7902449,-122.409088,"Monday: Closed
+Tuesday: 6:00 – 8:00 PM
+Wednesday: 6:00 – 8:00 PM
+Thursday: 6:00 – 8:00 PM
+Friday: 5:00 – 8:30 PM
+Saturday: 5:00 – 8:30 PM
+Sunday: Closed",White,Wine Co.,Premium,72
+San Francisco,2024-11-10 19:44:08.478401,Nopa,"560 Divisadero St, San Francisco, CA 94117, USA",37.7749009,-122.4375083,"Monday: 5:30 – 10:00 PM
+Tuesday: 5:30 – 10:00 PM
+Wednesday: 5:30 – 10:00 PM
+Thursday: 5:30 – 10:00 PM
+Friday: 5:30 – 11:00 PM
+Saturday: 5:30 – 11:00 PM
+Sunday: 5:00 – 9:30 PM",White,Vineyard Delights,Entry-level,31
+San Francisco,2024-11-10 19:44:10.631252,Trestle Restaurant,"531 Jackson St, San Francisco, CA 94133, USA",37.7961962,-122.4045409,"Monday: 5:30 – 9:00 PM
+Tuesday: 5:30 – 9:00 PM
+Wednesday: 5:30 – 9:00 PM
+Thursday: 5:30 – 9:00 PM
+Friday: 5:30 – 10:00 PM
+Saturday: 5:30 – 10:00 PM
+Sunday: 5:30 – 9:00 PM",Red,Wine Co.,Entry-level,93
+San Francisco,2024-11-10 19:44:12.164996,Delancey Street Restaurant,"600 The Embarcadero, San Francisco, CA 94107, USA",37.7843599,-122.3884342,"Monday: Closed
+Tuesday: 11:00 AM – 11:00 PM
+Wednesday: 11:00 AM – 11:00 PM
+Thursday: 11:00 AM – 11:00 PM
+Friday: 11:00 AM – 11:00 PM
+Saturday: 10:00 AM – 11:00 PM
+Sunday: 10:00 AM – 11:00 PM",Rosé,Vineyard Delights,Mid-tier,91
+San Francisco,2024-11-10 19:44:13.496869,Scoma's Restaurant,"1965 Al Scoma Way, San Francisco, CA 94133, USA",37.808932,-122.4184329,"Monday: 12:00 – 9:00 PM
+Tuesday: 12:00 – 9:00 PM
+Wednesday: 12:00 – 9:00 PM
+Thursday: 12:00 – 9:00 PM
+Friday: 12:00 – 9:30 PM
+Saturday: 12:00 – 9:30 PM
+Sunday: 12:00 – 9:00 PM",Sparkling,Global Wines Ltd.,Entry-level,36
+San Francisco,2024-11-10 19:44:14.929041,Kokkari Estiatorio,"200 Jackson St, San Francisco, CA 94111, USA",37.7970323,-122.3997559,"Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM
+Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM
+Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM
+Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM
+Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM
+Saturday: 5:00 – 10:00 PM
+Sunday: 5:00 – 10:00 PM",Red,Wine Co.,Premium,31
+San Francisco,2024-11-10 19:44:16.977471,Birdsong,"1085 Mission St, San Francisco, CA 94103, USA",37.7793925,-122.4103825,"Monday: Closed
+Tuesday: 5:00 – 9:00 PM
+Wednesday: 5:00 – 9:00 PM
+Thursday: 5:00 – 9:00 PM
+Friday: 5:00 – 9:00 PM
+Saturday: 5:00 – 9:00 PM
+Sunday: Closed",Sparkling,Fine Wine Suppliers,Entry-level,57
+San Francisco,2024-11-10 19:44:18.921009,Surisan,"505 Beach St, San Francisco, CA 94133, USA",37.80679110000001,-122.417499,"Monday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM
+Tuesday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM
+Wednesday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM
+Thursday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM
+Friday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM
+Saturday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM
+Sunday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",Red,Global Wines Ltd.,Premium,85
+San Francisco,2024-11-10 19:44:20.048784,Cotogna,"490 Pacific Ave, San Francisco, CA 94133, USA",37.7974453,-122.4035759,"Monday: 4:30 – 9:00 PM
+Tuesday: 4:30 – 9:00 PM
+Wednesday: 11:30 AM – 9:00 PM
+Thursday: 11:30 AM – 9:00 PM
+Friday: 11:30 AM – 9:00 PM
+Saturday: 11:30 AM – 9:00 PM
+Sunday: Closed",Sparkling,Vineyard Delights,Mid-tier,84
+San Francisco,2024-11-10 19:44:21.279107,The Morris,"2501 Mariposa St, San Francisco, CA 94110, USA",37.7629795,-122.4084796,"Monday: 5:00 – 9:30 PM
+Tuesday: 5:00 – 9:30 PM
+Wednesday: 5:00 – 9:30 PM
+Thursday: 5:00 – 9:30 PM
+Friday: 5:00 – 9:30 PM
+Saturday: 5:00 – 9:30 PM
+Sunday: Closed",White,Vineyard Delights,Premium,31
