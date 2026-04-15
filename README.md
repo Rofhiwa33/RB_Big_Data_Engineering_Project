@@ -8,10 +8,10 @@ The pipeline focuses on real-time data ingestion and processing, simulating how 
 ## Project Goal
 To design and build a scalable data pipeline capable of:
 
-🔹 Streaming live data from external APIs
-🔹 Processing data in real-time
-🔹 Storing data in a cloud environment
-🔹 Supporting downstream analytics and decision-making
+* Streaming live data from external APIs
+* Processing data in real-time
+* Storing data in a cloud environment
+* Supporting downstream analytics and decision-making
  
 ## Architecture (What I Built)
 
