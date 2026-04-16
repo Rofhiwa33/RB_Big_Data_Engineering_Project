@@ -43,10 +43,15 @@ Jupyter Notebook – Development & testing
 
 📂 Project Structure
 RB_Big_Data_Engineering_Project/
+
 │── data/ # Raw and processed data
+
 │── notebooks/ # Exploration and testing
+
 │── scripts/ # Streaming & processing scripts
+
 │── outputs/ # Final processed data
+
 │── README.md
 
 ## Pipeline Workflow
